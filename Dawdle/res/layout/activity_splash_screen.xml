@@ -7,16 +7,16 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.dawdle.SplashScreen$PlaceholderFragment"
-    android:background="#708AFF" >
+    android:background="@drawable/chalkboard_background" >
 
     <ImageView
         android:id="@+id/imageView1"
         android:layout_width="fill_parent"
-        android:layout_height="40sp"
+        android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="20dp"
-        android:src="@drawable/dawdle_name"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/dawdle_chalk"
         android:contentDescription="@string/app_name"
     />
 

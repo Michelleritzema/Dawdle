@@ -4,6 +4,6 @@
     <string name="app_name">Dawdle</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string android:layout_height="wrap_content" android:id="@+id/string1" android:layout_width="wrap_content" name="Start_Name">Dawdle logo name</string>
+    <string android:id="@+id/string1" name="Start_Name" android:layout_width="wrap_content" android:layout_height="wrap_content">Dawdle logo name</string>
 
 </resources>
